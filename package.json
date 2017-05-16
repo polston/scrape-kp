@@ -9,8 +9,13 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "async": "^2.4.0",
+    "casperjs": "^1.1.4",
     "cheerio": "^0.22.0",
     "pad-left": "^2.1.0",
-    "request": "^2.81.0"
+    "request": "^2.81.0",
+    "request-promise-native": "^1.0.4",
+    "spooky": "^0.2.5",
+    "zombie": "^5.0.5"
   }
 }
